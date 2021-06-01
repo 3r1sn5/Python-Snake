@@ -12,7 +12,6 @@ direction = RIGHT
 
 BORDER = '🟨'
 BODY = '🟪'
-HEAD = '🟦'
 SPACE = ' '
 MELON = '🍈'
 
